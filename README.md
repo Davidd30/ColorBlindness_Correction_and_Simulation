@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Color Blindness Correction and Simulation
 
 A desktop application developed in Python using OpenCV to simulate and correct color blindness in real-time.
@@ -27,3 +28,6 @@ This project provides real-time simulation and correction for various types of c
 
 ![Correction Mode](ScreenShots/Tritanopia (Blue-Blind)_2025-05-05 01_32_19.043330.jpg)
 *Correction mode adjusting colors for better visibility.*
+=======
+# ColorBlindness_Correction_and_Simulation
+>>>>>>> 8be060a (Editing Readme.md and screenshots file)

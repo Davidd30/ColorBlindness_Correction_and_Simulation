@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Color Blindness Correction and Simulation
 
 A desktop application developed in Python using OpenCV to simulate and correct color blindness in real-time.

@@ -23,10 +23,10 @@ This project provides real-time simulation and correction for various types of c
 
 ## 📸 Screenshots
 
-![Simulation Mode](ScreenShots/Tritanopia (Blue-Blind)_2025-05-05 01_32_16.154965.jpg)
+![Simulation Mode](ScreenShots/SimulatedTrit.jpg)
 *Simulation mode displaying how colors appear to colorblind individuals.*
 
 
-![Correction Mode](ScreenShots/Tritanopia (Blue-Blind)_2025-05-05 01_32_19.043330.jpg)
+![Correction Mode](ScreenShots/CorrectedTrit.jpg)
 *Correction mode adjusting colors for better visibility.*
 
